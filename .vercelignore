@@ -1,0 +1,20 @@
+# Vercel Ignore File
+# Files and folders to exclude from deployment
+
+# Artifacts directory
+.gemini/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.log
